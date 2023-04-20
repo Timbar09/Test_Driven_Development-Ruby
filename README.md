@@ -78,7 +78,7 @@ To run tests, run the following command:
 For example:
 
 ```sh
-  rspec ./spec/teacher_spec.rb
+  rspec ./spec/factorial_spec.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
